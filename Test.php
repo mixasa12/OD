@@ -22,14 +22,23 @@
 	<div style="float: left; width:15vw; margin-left: 10vw; color:white; font-size: 5vw; margin-top: 0;height: 6vw;margin-top:1.5vw; font-family:'Regular'">
 	Moonrise 
 	</div>
-	<div style="display: inline-block; width:10vw; margin-left: 20vw; color:white; font-size: 2.5vw; margin-top: 0;height: 6vw;margin-top:3.5vw;">
+	<div style="display: inline-block;  margin-left: 18vw; color:white;  font-size: 1.2vw; margin-top: 0;height: 6vw;margin-top:3.5vw;margin-left: 24vw;">
 		Кофты
 	</div>
-	<div style="display: inline-block; width:10vw; text-align: center; color:white; font-size: 2.5vw; margin-top: 0; height: 6vw;margin-top:3.5vw;">
+	<div style="display: inline-block; text-align: center; color:white;  font-size: 1.2vw; margin-top: 0; height: 6vw;margin-top:3.5vw;margin-left: 1vw;">
 		Обувь
 	</div>
-	<div style="display: inline-block; width:12vw; text-align: center; color:white; font-size: 2.5vw; margin-top: 0; height: 6vw;margin-top:3.5vw; margin-left: 2vw;">
+	<div style="display: inline-block;  text-align: center; color:white;  font-size: 1.2vw; margin-top: 0; height: 6vw;margin-top:3.5vw; margin-left: 1vw;">
 		Футболки
+	</div>
+	<div style="display: inline-block;  text-align: center; color:white; font-size: 1.2vw; margin-top: 0; height: 6vw;margin-top:3.5vw; margin-left: 1vw;">
+		Пальто
+	</div>
+		<div style="display: inline-block;  text-align: center; color:white; font-size: 1.2vw; margin-top: 0; height: 6vw;margin-top:3.5vw; margin-left: 1vw;">
+		Рубашки
+	</div>
+		<div style="display: inline-block;  text-align: center; color:white; font-size: 1.2vw; margin-top: 0; height: 6vw;margin-top:3.5vw; margin-left: 1vw;">
+		Худи
 	</div>
 </div>
 <div class="nadpis" style="font-size: 2.5vw;line-height: 1.5;height: 30vw;background-image: url('img/test4.webp');background-size:100% ;color: black;margin-top: 0;padding-top:15vw;font-weight: 700;">
