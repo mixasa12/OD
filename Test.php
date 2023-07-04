@@ -227,10 +227,5 @@
 		</div>
 	</div>
 </div>
-<script type="text/javascript">
-	function buy() {
-		location.href='Test1.php';
-	}
-</script>
 </body>
 </html>
